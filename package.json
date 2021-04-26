@@ -1,0 +1,33 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "set HTTPS=true&&next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "formik": "^2.2.6",
+    "js-cookie": "^2.2.1",
+    "next": "^10.0.0",
+    "next-redux-wrapper": "^4.0.1",
+    "react": "17.0.1",
+    "react-bootstrap": "^1.5.2",
+    "react-dom": "17.0.1",
+    "react-facebook-login": "^4.1.1",
+    "react-google-login": "^5.2.2",
+    "react-redux": "^7.2.3",
+    "redux": "^4.0.4",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
